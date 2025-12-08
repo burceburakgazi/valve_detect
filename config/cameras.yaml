@@ -1,0 +1,11 @@
+cameras:
+  cam1:
+    name: "Ana Paketleme"
+    rtsp: "rtsp://admin:dkk2025..@172.16.42.57:554/Streaming/Channels/101"
+  # İleride istersen ekleyebilirsin:
+  # cam2:
+  #   name: "Yan Görünüş"
+  #   rtsp: "rtsp://KULLANICI:ŞİFRE@172.16.42.63:554/Streaming/Channels/101"
+  # cam3:
+  #   name: "Üstten Genel"
+  #   rtsp: "rtsp://KULLANICI:ŞİFRE@172.16.42.64:554/Streaming/Channels/101"
